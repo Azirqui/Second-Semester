@@ -1,0 +1,16 @@
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work\LM-2_5\bin\Debug\LM-2_5.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work\LM-2_5\bin\Debug\LM-2_5.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work\LM-2_5\bin\Debug\LM-2_5.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work\LM-2_5\obj\Debug\LM-2_5.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work\LM-2_5\obj\Debug\LM-2_5.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work\LM-2_5\obj\Debug\LM-2_5.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work\LM-2_5\obj\Debug\LM-2_5.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work\LM-2_5\obj\Debug\LM-2_5.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work Lab\LM-2_5\obj\Debug\LM-2_5.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work Lab\LM-2_5\obj\Debug\LM-2_5.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work Lab\LM-2_5\obj\Debug\LM-2_5.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work Lab\LM-2_5\obj\Debug\LM-2_5.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work Lab\LM-2_5\obj\Debug\LM-2_5.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work Lab\LM-2_5\bin\Debug\LM-2_5.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work Lab\LM-2_5\bin\Debug\LM-2_5.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\Class Work Lab\LM-2_5\bin\Debug\LM-2_5.pdb
