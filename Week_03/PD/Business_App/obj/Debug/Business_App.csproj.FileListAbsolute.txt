@@ -1,0 +1,53 @@
+E:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\bin\Debug\Business_App.exe.config
+E:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\bin\Debug\Business_App.exe
+E:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\bin\Debug\Business_App.pdb
+E:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.csproj.AssemblyReference.cache
+E:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.csproj.SuggestedBindingRedirects.cache
+E:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.csproj.CoreCompileInputs.cache
+E:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.exe
+E:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\bin\Debug\Business_App.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\bin\Debug\Business_App.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\bin\Debug\Business_App.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Business_App\obj\Debug\Business_App.pdb
+E:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\bin\Debug\Business_App.exe.config
+E:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\bin\Debug\Business_App.exe
+E:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\bin\Debug\Business_App.pdb
+E:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.csproj.AssemblyReference.cache
+E:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.csproj.SuggestedBindingRedirects.cache
+E:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.csproj.CoreCompileInputs.cache
+E:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.exe
+E:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\bin\Debug\Business_App.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\bin\Debug\Business_App.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\bin\Debug\Business_App.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Business_App\obj\Debug\Business_App.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Business_App\bin\Debug\Business_App.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Business_App\bin\Debug\Business_App.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Business_App\bin\Debug\Business_App.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Business_App\obj\Debug\Business_App.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Business_App\obj\Debug\Business_App.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Business_App\obj\Debug\Business_App.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Business_App\obj\Debug\Business_App.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Business_App\obj\Debug\Business_App.pdb
+E:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.csproj.AssemblyReference.cache
+E:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.csproj.SuggestedBindingRedirects.cache
+E:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.csproj.CoreCompileInputs.cache
+E:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.exe
+E:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.pdb
+E:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\bin\Debug\Business_App.exe.config
+E:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\bin\Debug\Business_App.exe
+E:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\bin\Debug\Business_App.pdb
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.exe
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\Business_App\obj\Debug\Business_App.pdb

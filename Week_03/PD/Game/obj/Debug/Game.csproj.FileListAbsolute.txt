@@ -1,0 +1,44 @@
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\Game.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\EZInput.dll
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\EZInput.xml
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.csproj.CopyComplete
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\bin\Debug\Game.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\bin\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\bin\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\bin\Debug\EZInput.dll
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\bin\Debug\EZInput.xml
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\obj\Debug\Game.csproj.CopyComplete
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\obj\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\PD\Game\obj\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\bin\Debug\Game.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\bin\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\bin\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\bin\Debug\EZInput.dll
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\bin\Debug\EZInput.xml
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\obj\Debug\Game.csproj.CopyComplete
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\obj\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\Self Work\Game\obj\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\bin\Debug\Game.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\bin\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\bin\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\bin\Debug\EZInput.dll
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\bin\Debug\EZInput.xml
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\obj\Debug\Game.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\obj\Debug\Game.csproj.CopyComplete
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\obj\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 03\PD\2022-CS-91_Game\obj\Debug\Game.pdb

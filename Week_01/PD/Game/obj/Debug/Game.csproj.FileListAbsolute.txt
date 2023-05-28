@@ -1,0 +1,11 @@
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\Game.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.exe
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.pdb
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\EZInput.dll
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\bin\Debug\EZInput.xml
+G:\Nextcloud\C#\OOP Lab\Week 01\PD\Game\obj\Debug\Game.csproj.CopyComplete

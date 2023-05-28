@@ -1,0 +1,3 @@
+Eggs,Grocery,120,15,5
+Mac Book,Another,80000,12,5
+Apple,Fruit,250,15,5

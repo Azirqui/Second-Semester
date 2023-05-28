@@ -1,0 +1,3 @@
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Challenge 01\obj\Debug\Challenge 01.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Challenge 01\obj\Debug\Challenge 01.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Challenge 01\obj\Debug\Challenge 01.csproj.CoreCompileInputs.cache

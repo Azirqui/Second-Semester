@@ -1,0 +1,16 @@
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\bin\Debug\Problem 03.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\bin\Debug\Problem 03.exe
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\bin\Debug\Problem 03.pdb
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\obj\Debug\Problem 03.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\obj\Debug\Problem 03.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\obj\Debug\Problem 03.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\obj\Debug\Problem 03.exe
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\obj\Debug\Problem 03.pdb
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\Task 01\bin\Debug\Problem 03.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\Task 01\bin\Debug\Problem 03.exe
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\Task 01\bin\Debug\Problem 03.pdb
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\Task 01\obj\Debug\Problem 03.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\Task 01\obj\Debug\Problem 03.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\Task 01\obj\Debug\Problem 03.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\Task 01\obj\Debug\Problem 03.exe
+G:\Nextcloud\C#\OOP Lab\Week 05\Lab Work\Problem 03\Task 01\obj\Debug\Problem 03.pdb

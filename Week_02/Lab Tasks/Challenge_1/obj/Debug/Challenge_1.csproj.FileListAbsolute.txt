@@ -1,0 +1,24 @@
+E:\Week 02\Challenge_1\bin\Debug\Challenge_1.exe.config
+E:\Week 02\Challenge_1\bin\Debug\Challenge_1.exe
+E:\Week 02\Challenge_1\bin\Debug\Challenge_1.pdb
+E:\Week 02\Challenge_1\obj\Debug\Challenge_1.csproj.AssemblyReference.cache
+E:\Week 02\Challenge_1\obj\Debug\Challenge_1.csproj.SuggestedBindingRedirects.cache
+E:\Week 02\Challenge_1\obj\Debug\Challenge_1.csproj.CoreCompileInputs.cache
+E:\Week 02\Challenge_1\obj\Debug\Challenge_1.exe
+E:\Week 02\Challenge_1\obj\Debug\Challenge_1.pdb
+E:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\bin\Debug\Challenge_1.exe.config
+E:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\bin\Debug\Challenge_1.exe
+E:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\bin\Debug\Challenge_1.pdb
+E:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.csproj.AssemblyReference.cache
+E:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.csproj.SuggestedBindingRedirects.cache
+E:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.csproj.CoreCompileInputs.cache
+E:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.exe
+E:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\bin\Debug\Challenge_1.exe.config
+G:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\bin\Debug\Challenge_1.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\bin\Debug\Challenge_1.pdb
+G:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.csproj.AssemblyReference.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.csproj.SuggestedBindingRedirects.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.csproj.CoreCompileInputs.cache
+G:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.exe
+G:\Nextcloud\C#\OOP Lab\Week 02\Lab Work\Challenge_1\obj\Debug\Challenge_1.pdb
